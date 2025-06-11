@@ -1,3 +1,6 @@
 tokyo
 osaka
 kyoto
+fukuoka
+sendai
+fukushima
